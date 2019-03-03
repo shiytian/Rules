@@ -29,9 +29,9 @@ DOMAIN-SUFFIX,steamstatic.com
 
 
 // Apple itunes
-DOMAIN-SUFFIX,itunes.apple.com 
-DOMAIN-SUFFIX,mzstatic.com 
-DOMAIN-SUFFIX,akadns.net 
+//DOMAIN-SUFFIX,itunes.apple.com 
+//DOMAIN-SUFFIX,mzstatic.com 
+//DOMAIN-SUFFIX,akadns.net 
 
 
 // Microsoft

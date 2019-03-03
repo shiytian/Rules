@@ -150,6 +150,9 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 
+//Speedtest
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,speedtest.net
 
 // Top blocked sites
 DOMAIN-SUFFIX,2o7.net
